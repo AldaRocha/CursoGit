@@ -57,3 +57,6 @@ Como ver la diferencia entre ramas:
 
 Juntar las ramas:
 ° git merge <rama_origen> <rama_destino> °
+
+Incluir el token despues del config nombre y correo:
+° git config user.password <token> °
