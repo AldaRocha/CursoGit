@@ -28,3 +28,8 @@ Muestra el historial de commits:
 Para pasar el archivo al repositorio remoto:
 ° git push -u <nombre_cualquiera || origin> <rama_especifica || master> °
 
+Para clonar un repositorio remoto completo:
+° git clone <url_reporitorio_clonar> °
+
+Para hacer pull a un repositorio y actualizar el proyecto:
+° git pull <nombre_cualquiera || origin> <rama_especifica || master> °
