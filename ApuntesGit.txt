@@ -1,0 +1,16 @@
+Inicializar un repositorio:
+° git init °
+
+Asigna nombre de usuario al colaborador del repositorio:
+° git config user.name "<nombre>" °
+
+Asigna correo al colaborador del repositorio:
+° git config user.email "<correo>" °
+
+Asigna a que repositorio de github se subira el repositorio:
+° git remote add origin "<url>" °
+
+Muestra el estado del repositorio:
+° git status °
+// Ejemplo: Muestra en rojo los cambios que no se han subido al repositorio //
+
